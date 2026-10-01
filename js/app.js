@@ -425,16 +425,15 @@
         <h2 class="script t-script rv" style="--d:100;margin:0">Para mi princesa hermosa</h2>
         <p class="justify rv" style="--d:350">Nunca olvides lo maravillosa que eres. Para mí eres mi princesa, mi confi, mi persona favorita y mi todo.
                                              <br> Quiero verte cumplir cada uno de tus sueños, viajar, crecer y ser muy feliz. Y quiero que sepas que siempre voy a estar ahí para apoyarte, en los días buenos y en los no tan buenos, durante cada día de mi vida.
-                                              Estos tres años espero que te hayan dejado algo muy claro: yo quiero estar contigo toda la vida. <br> Quiero vivir contigo todo lo que nos falta: nuestros viajes, nuestro hogar, casarnos, formar nuestra familia y seguir creando recuerdos juntos.
+                                              Estos tres años espero que te hayan dejado algo muy claro: yo quiero estar contigo toda la vida. <br>  Aunque el camino no siempre sea fácil, quiero que sepas que no importa lo difícil que se ponga la vida, yo siempre voy a estar a tu lado. Eres mi lugar seguro, mi calma en medio del caos, la persona que hace que todo se sienta más bonito, más ligero y más real. Contigo la vida se siente diferente, más bonita, más simple y más nuestra. Gracias por estar, por ser tú, por hacerme tan feliz y por elegir caminar a mi lado
                                               Te amo muchísimo, más de lo que a veces puedo explicar. Nunca dudes de lo mucho que te amo ni de las ganas que tengo de seguir eligiéndote todos los días.
         </p>
         <div class="tail">
           <p class="justify rv" style="--d:600">También quiero agradecerte por haber traído a mi vida a Mimis, nuestra niña. No sabes cuánto la amo y lo feliz que me hace tenerla. Gracias por darme la oportunidad de conocer ese amor tan bonito que ahora compartimos los tres.
                                                 Tú y Mimis son mi familia, y no cambiaría por nada la vida que estamos construyendo juntos. 🐾
           </p>
-          <p class="justify rv" style="--d:750">Te amo Infinitamente. ❤️</p>
           <br>
-          <br>
+
           <div class="sig script rv" style="--d:900">Eres mi todo</div>
         </div>
       </div>` },
